@@ -133,7 +133,7 @@ export default function Services() {
   return (
     <section className="w-full flex flex-col items-center py-24 bg-white">
       {/* Title */}
-      <h2 className="text-7xl md:text-8xl font-bold text-center mb-16 text-black">
+      <h2 className="text-6xl md:text-7xl font-myfont font-semibold text-center mb-16 text-black">
         Our Services
       </h2>
 
