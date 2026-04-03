@@ -58,7 +58,7 @@ const handleLeave = (index: number) => {
 };
 
   return (
-    <section className="w-full h-screen bg-[#e9e9e9] flex flex-col justify-between pt-10 pb-12 overflow-hidden">
+    <section className="w-full h-screen bg-[#ffffff] flex flex-col justify-between pt-10 pb-12 overflow-hidden">
       
       {/* TITLE */}
       <div className="w-full flex justify-center mt-10">

@@ -152,7 +152,7 @@ export default function Services() {
                 ref={(el) => { textRefs.current[index] = el }}
                 className="flex justify-center items-center gap-4 flex-wrap"
               >
-                <span className="text-5xl md:text-6xl lg:text-7xl font-light text-[#8f8d8d]">
+                <span className="text-5xl md:text-6xl lg:text-7xl font-myfont font-semibold text-[#959697]">
                   {service.title}
                 </span>
                 <span className="text-sm md:text-base bg-white px-3 py-1 rounded-full font-medium text-black">
